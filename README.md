@@ -14,3 +14,5 @@ The repository is organized as follows:
 - **Schematics**: Includes designs for the flexible printed circuit and motor controller.
 - **PCB Layout**: PCB layout and schematic files created using KiCad for the drone’s flexible printed circuit.
 - **Documentation**: Detailed documentation explaining the project, the technology behind FPC, and power optimization strategies.
+
+## The next update will be received on April 24, 2025
